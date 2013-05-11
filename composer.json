@@ -11,4 +11,9 @@
         "php": ">=5.3.3",
         "zendframework/zendframework": "2.*"
     }
+	"autoload": {
+        "psr-0": {
+            "SpdExample": "src/"
+        }
+    }
 }
