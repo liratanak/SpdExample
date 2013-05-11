@@ -1,0 +1,14 @@
+{
+    "name": "liratanak/spd-example",
+    "description": "SPD Example",
+    "license": "BSD-3-Clause",
+    "keywords": [
+        "SPEEDER",
+        "zf2"
+    ],
+    "homepage": "http://liratanak.github.io",
+    "require": {
+        "php": ">=5.3.3",
+        "zendframework/zendframework": "2.*"
+    }
+}
