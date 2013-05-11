@@ -2,6 +2,7 @@
     "name": "liratanak/spd-example",
     "description": "SPD Example",
     "license": "BSD-3-Clause",
+    "type": "library",
     "keywords": [
         "SPEEDER",
         "zf2"
